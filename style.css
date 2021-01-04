@@ -1,0 +1,15 @@
+.main{
+    color: mediumvioletred;
+    align-items: center;
+    font-family: fantasy;
+    padding: 33px;
+    margin: 33px;
+    font-size: 333%;
+    background-color: olivedrab;
+}
+.main span{
+    color: mediumvioletred;
+    font-family: fantasy;
+    font-size: 33%;
+
+}
